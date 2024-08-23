@@ -1,0 +1,16 @@
+.center-radio {
+    margin: 0 auto;
+    display: block;
+}
+body {
+    background-image:https://www.shutterstock.com/shutterstock/photos/1802292031/display_1500/stock-vector-design-concept-of-word-english-website-banner-english-illustration-for-book-dictionary-1802292031.jpg;
+}
+a:visited{
+    color: coral
+}
+a:hover{
+    color: chartreuse
+}
+a:active{
+    color: chocolate
+}
